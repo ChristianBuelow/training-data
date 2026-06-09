@@ -13,7 +13,7 @@
 
 ### Heart Rate
 - **Resting HR:** 44–48 bpm
-- **Max HR:** 183 bpm (Garmin)
+- **Max HR:** 184 bpm (Garmin)
 - **LTHR (Cycling):** 163 bpm (Garmin)
 - **LTHR (Running):** 167 bpm (Garmin)
 - **Zone Source:** Intervals.icu default zones
