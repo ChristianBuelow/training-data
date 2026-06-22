@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:10:50.008934",
+  "generated_at": "2026-06-22T19:47:22.353693",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -85,6 +85,27 @@
           "zone": 1,
           "training_load": 65.49957,
           "decoupling": 2.3471673
+        }
+      ]
+    },
+    {
+      "activity_id": "i159452206",
+      "date": "2026-06-22",
+      "type": "Ride",
+      "name": "Oslo - LIT - 2h (mit 6x6\" Antritten)",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8514,
+          "avg_power": 144,
+          "max_power": 836,
+          "avg_hr": 122,
+          "max_hr": 151,
+          "avg_cadence": 70.557,
+          "zone": 1,
+          "training_load": 70.197,
+          "decoupling": 4.250895
         }
       ]
     }
