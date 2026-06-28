@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T12:09:38.659270",
+  "generated_at": "2026-06-28T14:16:13.171084",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -373,6 +373,27 @@
           "zone": 1,
           "training_load": 128.64182,
           "decoupling": 17.73029
+        }
+      ]
+    },
+    {
+      "activity_id": "i160970185",
+      "date": "2026-06-28",
+      "type": "Ride",
+      "name": "Hamburg Rennradfahren",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 24972,
+          "avg_power": 152,
+          "max_power": 525,
+          "avg_hr": 128,
+          "max_hr": 145,
+          "avg_cadence": 84.821724,
+          "zone": 1,
+          "training_load": 163.13126,
+          "decoupling": -1.808915
         }
       ]
     }
