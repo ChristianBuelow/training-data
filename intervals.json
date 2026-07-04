@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T17:19:06.747892",
+  "generated_at": "2026-07-04T18:32:13.216386",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -882,6 +882,54 @@
           "zone": 2,
           "training_load": 27.119667,
           "decoupling": 0.11243334
+        }
+      ]
+    },
+    {
+      "activity_id": "i162711842",
+      "date": "2026-07-04",
+      "type": "VirtualRide",
+      "name": "Indoor Cycling",
+      "interval_summary": [
+        "1x 3m25s 262w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1795,
+          "avg_power": 153,
+          "max_power": 260,
+          "avg_hr": 117,
+          "max_hr": 144,
+          "avg_cadence": 89.02668,
+          "zone": 1,
+          "training_load": 16.442884,
+          "decoupling": -26.293045
+        },
+        {
+          "type": "WORK",
+          "label": "205s@262w94rpm",
+          "duration_secs": 205,
+          "avg_power": 262,
+          "max_power": 285,
+          "avg_hr": 148,
+          "max_hr": 155,
+          "avg_cadence": 93.69756,
+          "zone": 4,
+          "training_load": 4.7757616,
+          "decoupling": 1.0060575
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5547,
+          "avg_power": 172,
+          "max_power": 251,
+          "avg_hr": 126,
+          "max_hr": 154,
+          "avg_cadence": 90.12389,
+          "zone": 2,
+          "training_load": 44.98615,
+          "decoupling": 1.525064
         }
       ]
     }
