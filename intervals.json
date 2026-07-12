@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T16:28:34.598726",
+  "generated_at": "2026-07-12T17:35:42.480160",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1251,6 +1251,26 @@
           "zone": 2,
           "training_load": 15.355593,
           "decoupling": 1.8634995
+        }
+      ]
+    },
+    {
+      "activity_id": "i165056506",
+      "date": "2026-07-12",
+      "type": "Ride",
+      "name": "Veelb\u00f6ken Rennradfahren",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 22375,
+          "avg_power": 156,
+          "max_power": 463,
+          "avg_hr": 122,
+          "max_hr": 137,
+          "avg_cadence": 83.93359,
+          "zone": 1,
+          "training_load": 164.47711
         }
       ]
     }
