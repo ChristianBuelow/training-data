@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T10:14:26.411418",
+  "generated_at": "2026-07-12T11:33:23.732007",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1230,6 +1230,27 @@
           "avg_cadence": 84.91786,
           "zone": 2,
           "training_load": 115.16777
+        }
+      ]
+    },
+    {
+      "activity_id": "i164965143",
+      "date": "2026-07-12",
+      "type": "Ride",
+      "name": "Holdorf Rennradfahren",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1611,
+          "avg_power": 163,
+          "max_power": 359,
+          "avg_hr": 120,
+          "max_hr": 133,
+          "avg_cadence": 85.69273,
+          "zone": 2,
+          "training_load": 15.355593,
+          "decoupling": 1.8634995
         }
       ]
     }
