@@ -1,51 +1,10 @@
 {
-  "generated_at": "2026-07-26T23:13:40.780185",
+  "generated_at": "2026-07-27T00:14:31.500146",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i164965143",
-      "date": "2026-07-12",
-      "type": "Ride",
-      "name": "Holdorf Rennradfahren",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1611,
-          "avg_power": 163,
-          "max_power": 359,
-          "avg_hr": 120,
-          "max_hr": 133,
-          "avg_cadence": 85.69273,
-          "zone": 2,
-          "training_load": 15.355593,
-          "decoupling": 1.8634995
-        }
-      ]
-    },
-    {
-      "activity_id": "i165056506",
-      "date": "2026-07-12",
-      "type": "Ride",
-      "name": "Veelb\u00f6ken Rennradfahren",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 22375,
-          "avg_power": 156,
-          "max_power": 463,
-          "avg_hr": 122,
-          "max_hr": 137,
-          "avg_cadence": 83.93359,
-          "zone": 1,
-          "training_load": 164.47711
-        }
-      ]
-    },
     {
       "activity_id": "i165726576",
       "date": "2026-07-14",
