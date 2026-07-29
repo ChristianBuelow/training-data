@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-07-28T22:59:27.324451",
+  "generated_at": "2026-07-29T00:05:16.755309",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i165726576",
-      "date": "2026-07-14",
-      "type": "Ride",
-      "name": "Hamburg Rennradfahren",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3902,
-          "avg_power": 158,
-          "max_power": 481,
-          "avg_hr": 117,
-          "max_hr": 131,
-          "avg_cadence": 77.24659,
-          "zone": 2,
-          "training_load": 37.448402,
-          "decoupling": -0.07859365
-        }
-      ]
-    },
-    {
-      "activity_id": "i165751496",
-      "date": "2026-07-14",
-      "type": "VirtualRide",
-      "name": "Indoor Cycling",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4250,
-          "avg_power": 160,
-          "max_power": 345,
-          "avg_hr": 139,
-          "max_hr": 151,
-          "avg_cadence": 88.087296,
-          "zone": 2,
-          "training_load": 42.00438,
-          "decoupling": 20.93698
-        }
-      ]
-    },
     {
       "activity_id": "i165930623",
       "date": "2026-07-15",
