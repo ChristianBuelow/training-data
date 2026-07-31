@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-07-30T22:46:46.440596",
+  "generated_at": "2026-07-31T00:02:00.640867",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i166372141",
-      "date": "2026-07-16",
-      "type": "Ride",
-      "name": "Combloux Rennradfahren",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5141,
-          "avg_power": 145,
-          "max_power": 447,
-          "avg_hr": 116,
-          "max_hr": 136,
-          "avg_cadence": 64.55418,
-          "zone": 1,
-          "training_load": 49.97,
-          "decoupling": 2.4696069
-        }
-      ]
-    },
     {
       "activity_id": "i166610850",
       "date": "2026-07-17",
